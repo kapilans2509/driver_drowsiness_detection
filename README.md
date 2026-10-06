@@ -1,3 +1,3 @@
 ## Output
 
-![Driver Drowsiness Detection Output](output.png)
+![Driver Drowsiness Detection Output](output.jpg)
